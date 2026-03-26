@@ -1,7 +1,9 @@
-# 프로토타입
-![image-20260326183511623](C:\Users\kwono\AppData\Roaming\Typora\typora-user-images\image-20260326183511623.png)
+# 프로토타입 2026.03.26 day 1
 
-![image-20260326183530448](C:\Users\kwono\AppData\Roaming\Typora\typora-user-images\image-20260326183530448.png)
+<img width="403" height="452" alt="image" src="https://github.com/user-attachments/assets/34d84158-882e-4fde-b970-74c1df9f2221" />
+
+<img width="432" height="449" alt="image" src="https://github.com/user-attachments/assets/6c900ecb-ebf1-4141-b80a-7f0de83d005b" />
+
 
 이슈 및 개선점
 
