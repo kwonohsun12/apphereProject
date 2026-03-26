@@ -1,4 +1,48 @@
-# apphereProject
-This project is an interactive 3D application interface inspired by spatial UI concepts (such as vision-based or planet-style navigation systems). It visualizes applications as elements placed on a spherical “planet” in a virtual space.
+# 🪐 apphereProject
+
+apphereProject는 공간 기반 UI(Spatial UI) 개념에서 영감을 받은 인터랙티브 3D 애플리케이션 인터페이스 프로젝트입니다.
+
+이 프로젝트는 기존의 평면적인 앱 리스트 구조를 벗어나,  
+앱을 하나의 구체(행성) 위에 배치하는 방식으로 시각화합니다.
+
+사용자는 앱 아이콘을 드래그하여 행성 표면에 배치할 수 있으며,  
+행성을 회전시키며 공간적으로 앱을 탐색하는 새로운 인터랙션을 경험할 수 있습니다.
+
+---
+
+## ✨ 주요 특징
+
+- 🪐 **3D 행성 기반 UI**
+  - 앱을 구체 표면 위에 배치하여 공간적으로 표현
+
+- 🎯 **드래그 앤 드롭 인터랙션**
+  - 앱 아이콘을 끌어 행성 위에 직접 배치
+
+- 🔄 **직접 회전 가능한 행성**
+  - 사용자의 입력으로 행성을 자유롭게 회전
+
+- 🧩 **제한된 슬롯 구조**
+  - 행성 표면의 특정 위치에만 앱 배치 가능
+
+- 🌌 **공간 기반 탐색 경험**
+  - 기존 리스트 UI가 아닌, 위치 기반 탐색 방식 제공
+
+---
+
+## 🧠 개발 방식
+
+본 프로젝트는 **바이브 코딩(Vibe Coding)** 방식으로 진행됩니다.
+
+- 생성된 코드를 기반으로 구조를 분석
+- 직접 수정 및 개선을 반복
+- 구현 지침을 기준으로 UI와 인터랙션을 발전
+
+---
+
+## 🎯 목표
+
+- 새로운 형태의 앱 탐색 경험 제안
+- Spatial UI 가능성 탐구
+- 3D 인터랙션 기반 UI 프로토타입 구현
 <img width="456" height="430" alt="image" src="https://github.com/user-attachments/assets/7cacad8f-02ad-4881-95fa-591f8cb23fbc" />
 <img width="606" height="468" alt="image" src="https://github.com/user-attachments/assets/257c6ba3-d809-4674-b16c-7e410622d417" />
